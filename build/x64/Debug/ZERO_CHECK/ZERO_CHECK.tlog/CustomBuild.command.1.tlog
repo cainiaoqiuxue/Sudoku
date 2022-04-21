@@ -1,0 +1,10 @@
+^C:\USERS\STUDYHARD\DESKTOP\SUDOKU\BUILD\CMAKEFILES\4152445B398FC54F11805333E68C5155\GENERATE.STAMP.RULE
+setlocal
+E:\cmake\bin\cmake.exe -SC:/Users/studyhard/Desktop/Sudoku -BC:/Users/studyhard/Desktop/Sudoku/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/studyhard/Desktop/Sudoku/build/sudoku.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

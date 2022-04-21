@@ -1,0 +1,10 @@
+^C:\USERS\STUDYHARD\DESKTOP\SUDOKU\CMAKELISTS.TXT
+setlocal
+E:\cmake\bin\cmake.exe -SC:/Users/studyhard/Desktop/Sudoku -BC:/Users/studyhard/Desktop/Sudoku/build --check-stamp-file C:/Users/studyhard/Desktop/Sudoku/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

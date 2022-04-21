@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/studyhard/Desktop/Sudoku/pybind11/CMakeLists.txt
+C:/Users/studyhard/Desktop/Sudoku/pybind11/tools/FindPythonLibsNew.cmake
+C:/Users/studyhard/Desktop/Sudoku/pybind11/tools/pybind11Common.cmake
+C:/Users/studyhard/Desktop/Sudoku/pybind11/tools/pybind11Tools.cmake
+E:/cmake/share/cmake-3.22/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+E:/cmake/share/cmake-3.22/Modules/CMakeDependentOption.cmake
+E:/cmake/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake
+E:/cmake/share/cmake-3.22/Modules/CMakeParseArguments.cmake
+E:/cmake/share/cmake-3.22/Modules/CheckCXXCompilerFlag.cmake
+E:/cmake/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake
+E:/cmake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+E:/cmake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+E:/cmake/share/cmake-3.22/Modules/FindPythonInterp.cmake
+E:/cmake/share/cmake-3.22/Modules/GNUInstallDirs.cmake
+E:/cmake/share/cmake-3.22/Modules/Internal/CheckCompilerFlag.cmake
+E:/cmake/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake
+E:/cmake/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake
