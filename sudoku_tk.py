@@ -39,7 +39,3 @@ class SudoduTK():
 
     def tk_show(self):
         self.window.mainloop()
-
-
-sktk=SudoduTK()
-sktk.tk_show()
